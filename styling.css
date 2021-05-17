@@ -132,3 +132,44 @@ p{
     padding-left: 550px;
     padding-bottom: 10px;
 }
+@media (max-width:1000px)
+{
+    
+    #title{
+        width: 996px;
+        width: 107%;
+    }
+    .footer{
+        width: 996px;
+        width: 107%;
+        height: 363px;
+        margin-bottom: 0;
+    }
+    .media{
+          padding-left: 355px
+    }
+    .navbar-nav{
+    padding-left: 250px;
+        float: left;
+        padding-right: 100px;
+    }
+    .section1{
+        width:106%;
+    }
+    .section2{
+        width:106%;
+        height: 130%;
+    }
+    .footer1{
+        padding-top: 62px;
+    }
+    .media{
+        padding: 20px;
+        padding-left: 380px;
+    }
+    .Copyright{
+        font-size: 1.4em;
+        text-align: center;
+    }
+}
+  
